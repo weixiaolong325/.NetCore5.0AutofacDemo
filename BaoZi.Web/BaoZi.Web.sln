@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.Web", "BaoZi.Web.csproj", "{429C3DE7-A06F-4E93-808A-1E43B3B93DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.Service", "..\BaoZi.Service\BaoZi.Service.csproj", "{CCD9E0A2-657C-4447-869C-97F3064600EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.IService", "..\BaoZi.IService\BaoZi.IService.csproj", "{1ACAFE16-598A-4229-9B14-745645ED29B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.IRepository", "..\BaoZi.IRepository\BaoZi.IRepository.csproj", "{91F0A42F-D507-4609-9748-C7B91ABA457A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.Repository", "..\BaoZi.Repository\BaoZi.Repository.csproj", "{2A0A8E96-2761-422D-91C1-8717CF66FF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaoZi.Core", "..\BaoZi.Core\BaoZi.Core.csproj", "{BF467EFF-528A-4769-A4AC-491D1DFE7C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429C3DE7-A06F-4E93-808A-1E43B3B93DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429C3DE7-A06F-4E93-808A-1E43B3B93DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429C3DE7-A06F-4E93-808A-1E43B3B93DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429C3DE7-A06F-4E93-808A-1E43B3B93DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD9E0A2-657C-4447-869C-97F3064600EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9E0A2-657C-4447-869C-97F3064600EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9E0A2-657C-4447-869C-97F3064600EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9E0A2-657C-4447-869C-97F3064600EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACAFE16-598A-4229-9B14-745645ED29B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACAFE16-598A-4229-9B14-745645ED29B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACAFE16-598A-4229-9B14-745645ED29B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACAFE16-598A-4229-9B14-745645ED29B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F0A42F-D507-4609-9748-C7B91ABA457A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F0A42F-D507-4609-9748-C7B91ABA457A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F0A42F-D507-4609-9748-C7B91ABA457A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F0A42F-D507-4609-9748-C7B91ABA457A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0A8E96-2761-422D-91C1-8717CF66FF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0A8E96-2761-422D-91C1-8717CF66FF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0A8E96-2761-422D-91C1-8717CF66FF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0A8E96-2761-422D-91C1-8717CF66FF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF467EFF-528A-4769-A4AC-491D1DFE7C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF467EFF-528A-4769-A4AC-491D1DFE7C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF467EFF-528A-4769-A4AC-491D1DFE7C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF467EFF-528A-4769-A4AC-491D1DFE7C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88E3095-02FE-4A37-BCE8-7123272D86CD}
+	EndGlobalSection
+EndGlobal
